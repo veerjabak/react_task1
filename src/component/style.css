@@ -1,0 +1,10 @@
+.container {
+  border: 1px solid black;
+  max-width: 30rem;
+  margin: 100px auto;
+  padding: 2.5rem 0;
+}
+.counterline {
+  text-align: left;
+  padding-left: 2.5rem;
+}
